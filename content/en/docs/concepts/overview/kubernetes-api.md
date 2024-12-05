@@ -247,11 +247,6 @@ Refer to the table below for accepted request headers.
         <td><em>not supplying this header is also acceptable</em></td>
      </tr>
      <tr>
-        <td rowspan="3"><code>Accept</code></td>
-        <td><code>application/com.github.proto-openapi.spec.v3@v1.0+protobuf</code></td>
-        <td><em>mainly for intra-cluster use</em></td>
-     </tr>
-     <tr>
         <td><code>application/json</code></td>
         <td><em>default</em></td>
      </tr>
